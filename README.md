@@ -78,8 +78,8 @@ Then the input file format would look like this:
 
 
 ## Note
-* Input files are added [here]( "inputs")
-*  Output files are added [here]( "outputs")
+* Input files are added [here](https://github.com/siddhipandare/Unate_Recursive_Complement/tree/master/Inputs "inputs")
+*  Output files are added [here](https://github.com/siddhipandare/Unate_Recursive_Complement/tree/master/Outputs "outputs")
 
 
 ## Authors
