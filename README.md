@@ -1,6 +1,6 @@
 # Unate Recursive Complement (URC)
 
-* As with the previous **tautology-checking** algorithm, the complementation algorithm uses a recursive “divide-and-conquer” approach.</br> 
+* As with the **tautology-checking** algorithm, the complementation algorithm uses a recursive “divide-and-conquer” approach.</br> 
 *   Given an initial cover F of a Boolean function f, the algorithm divides the cover
 into smaller pieces until termination conditions are met. Results are then returned and reassembled into a
 final solution.</br> 
@@ -35,7 +35,7 @@ git --version
 * Clone this repository using the following command in your preferred directory:
 
 ```
-git clone 
+git clone https://github.com/siddhipandare/Unate_Recursive_Complement.git
 ```
 * Run `UnateRecursiveComplement.py` file in ``command prompt``  in the same directory
 
